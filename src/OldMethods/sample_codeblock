@@ -1,0 +1,4 @@
+```c++
+std::string name("Frank Jr");
+printf("%s\n", name);
+```

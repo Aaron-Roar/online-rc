@@ -1,0 +1,8 @@
+Signing up to server
+(size of message 64 bytes)(0) (name)
+
+Sending Mutation
+(Size of message 64 bytes)(3) {(sign) (name:op) (name) (name)}
+
+Passing data
+(size of message 64 bytes)(2) (uid)(op)(payload)
